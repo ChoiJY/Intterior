@@ -1,0 +1,10 @@
+{
+  "name": "Intterior_server",
+  "version": "0.0.1",
+  "description": "server implementation",
+  "dependencies": {
+    "express": "3.x",
+    "mongodb": "^2.2.26",
+    "socket.io": "^2.0.1"
+  }
+}
