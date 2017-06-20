@@ -5,4 +5,3 @@ node_js:
 before_install:
   - npm install mongoose --save
 services: mongodb
-script: ./run_build.sh
